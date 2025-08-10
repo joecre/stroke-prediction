@@ -28,7 +28,3 @@ Even a small gain in recall can help flag people for earlier screening.
 - Low recall for stroke cases at common thresholds due to class imbalance
 - Next steps: lower the threshold, try class weights or focused resampling, and collect more positive cases
 
-## How to run
-1. pip install -r requirements.txt
-2. Place the dataset in the data/ folder
-3. Open stroke_final_ready.ipynb and run all
